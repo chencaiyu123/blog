@@ -1,0 +1,32 @@
+#header{
+    background: #226039 url(../img/index/header_top.jpg) center 0 scroll no-repeat;
+}
+.news{
+    border-top-left-radius: 0.2rem;
+    border-top-right-radius: 0.2rem;
+}
+.my_card{
+    border-bottom: #F4F3EF 40px solid;
+    box-shadow: #999 2px 2px 3px;
+}
+.d-flex.justify-content-between {
+    line-height: 0.2rem;
+}
+.my_book{
+    width: 100%;
+}
+.my_leftimg{
+    width: 30%;
+    height: 100%;
+    overflow: hidden;
+}
+.my_p{
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.h4_title{
+    color: #555;
+    font-size: 1.2rem;
+
+}

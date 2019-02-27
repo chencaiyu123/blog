@@ -1,0 +1,11 @@
+#header{
+    height:56px;
+}
+.detail-p{
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+}
+.border-w{
+    border-top: 2px solid #007bff;
+    padding-top: 0.5rem;
+}
